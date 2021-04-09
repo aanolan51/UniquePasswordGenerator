@@ -22,6 +22,9 @@ A series of yes/no prompts will appear:
 A random password is generated:
 ![Random password screenshot](Assets/PasswordGenerated.png)
 
+## Link
+https://aanolan51.github.io/UniquePasswordGenerator/
+
 ## Credits
 1. https://www.youtube.com/watch?v=iKo9pDKKHnc
 2. https://www.codecademy.com/forum_questions/54de5c2586f552b10a0029b9
