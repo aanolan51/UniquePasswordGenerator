@@ -12,6 +12,16 @@ Click on the "Generate Password" button. This will initiate a series of prompts 
 
 Once all the correct input is received, a random password of specified length will be generated and the text will be shown in the password box. If you click the button again, you will go through the prompts again and a new password will be generated and stored, overwriting the previous password. 
 
+Button clicked, prompts begin starting with length:
+
+![After button click, prompts begin starting with length](Assets/PasswordLength.png)
+
+A series of yes/no prompts will appear:
+![Yes or no prompts](Assets/YesNoPrompts.png)
+
+A random password is generated:
+![Random password screenshot](Assets/PasswordGenerated.png)
+
 ## Credits
 1. https://www.youtube.com/watch?v=iKo9pDKKHnc
 2. https://www.codecademy.com/forum_questions/54de5c2586f552b10a0029b9
